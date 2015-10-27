@@ -1,0 +1,11 @@
+{
+  "name": "vulnerable",
+  "version": "0.0.0",
+  "description": "Exposing the bad things in Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adrian Lynch (adi_ady_ade@hotmail.com)",
+  "license": "MIT"
+}
