@@ -6,6 +6,14 @@ Let's make an application that's open to all sorts of bad stuff.
 
 To learn my friend, to learn!
 
+## Getting started
+
+Install and start the server:
+
+`npm install && npm start`
+
+Now follow along below.
+
 ## What have you got?
 
 ### Directory traversals
